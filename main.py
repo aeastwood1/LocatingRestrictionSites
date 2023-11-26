@@ -1,3 +1,4 @@
+# Locate restriction sites.
 from Bio import SeqIO
 
 # Parse the fasta file to produce each sequence and its reverse compliment.
